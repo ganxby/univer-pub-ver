@@ -1,0 +1,1902 @@
+[
+    {
+        "id": 1,
+        "name": "Институт цифровых технологий",
+        "groups": [
+            {
+                "id": 2,
+                "name": "18-АП(эс)",
+                "friendlyName": "18-АП",
+                "institute": 1,
+                "subGroups": [
+                    {
+                        "id": 4,
+                        "studyGroup": 2,
+                        "numberInGroup": 1,
+                        "name": "18-АП(эс)-1"
+                    },
+                    {
+                        "id": 5,
+                        "studyGroup": 2,
+                        "numberInGroup": 2,
+                        "name": "18-АП(эс)-2"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "name": "18-ВТ-(ас)-(рас)",
+                "friendlyName": "18-ВТ",
+                "institute": 1,
+                "subGroups": [
+                    {
+                        "id": 6,
+                        "studyGroup": 3,
+                        "numberInGroup": 1,
+                        "name": "18-ВТ(рас)-1"
+                    },
+                    {
+                        "id": 7,
+                        "studyGroup": 3,
+                        "numberInGroup": 2,
+                        "name": "18-ВТ(рас)-2"
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "name": "18-ИЭ-(иэ)-(кис)",
+                "friendlyName": "18-ИЭ",
+                "institute": 1,
+                "subGroups": [
+                    {
+                        "id": 8,
+                        "studyGroup": 4,
+                        "numberInGroup": 1,
+                        "name": "18-ИЭ(кис)-1"
+                    },
+                    {
+                        "id": 9,
+                        "studyGroup": 4,
+                        "numberInGroup": 2,
+                        "name": "18-ИЭ(кис)-2"
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "name": "19-АП(эс)",
+                "friendlyName": "19-АП",
+                "institute": 1,
+                "subGroups": []
+            },
+            {
+                "id": 6,
+                "name": "19-ВТ-(ас)-(рас)-1",
+                "friendlyName": "19-ВТ",
+                "institute": 1,
+                "subGroups": [
+                    {
+                        "id": 10,
+                        "studyGroup": 6,
+                        "numberInGroup": 1,
+                        "name": "19-ВТ-1-1"
+                    },
+                    {
+                        "id": 11,
+                        "studyGroup": 6,
+                        "numberInGroup": 2,
+                        "name": "19-ВТ-1-2"
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "name": "19-ВТ-(ас)-(рас)-2",
+                "friendlyName": "19-ВТ",
+                "institute": 1,
+                "subGroups": []
+            },
+            {
+                "id": 8,
+                "name": "19-ИЭ-(иэ)-(кис)-1",
+                "friendlyName": "19-ВТ",
+                "institute": 1,
+                "subGroups": [
+                    {
+                        "id": 12,
+                        "studyGroup": 8,
+                        "numberInGroup": 1,
+                        "name": "19-ИЭ(кис)-1-1"
+                    },
+                    {
+                        "id": 13,
+                        "studyGroup": 8,
+                        "numberInGroup": 2,
+                        "name": "19-ИЭ(кис)-1-2"
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "name": "19-ИЭ-(иэ)-(кис)-2",
+                "friendlyName": "19-ВТ",
+                "institute": 1,
+                "subGroups": []
+            },
+            {
+                "id": 10,
+                "name": "20-АП(эс)",
+                "friendlyName": "20-АП",
+                "institute": 1,
+                "subGroups": [
+                    {
+                        "id": 14,
+                        "studyGroup": 10,
+                        "numberInGroup": 1,
+                        "name": "20-АП-1"
+                    },
+                    {
+                        "id": 15,
+                        "studyGroup": 10,
+                        "numberInGroup": 2,
+                        "name": "20-АП-2"
+                    }
+                ]
+            },
+            {
+                "id": 11,
+                "name": "20-ВТ-(ас)-(рас)-1",
+                "friendlyName": "20-ВТ",
+                "institute": 1,
+                "subGroups": [
+                    {
+                        "id": 16,
+                        "studyGroup": 11,
+                        "numberInGroup": 1,
+                        "name": "20-ВТ-1-1"
+                    },
+                    {
+                        "id": 17,
+                        "studyGroup": 11,
+                        "numberInGroup": 2,
+                        "name": "20-ВТ-1-2"
+                    }
+                ]
+            },
+            {
+                "id": 12,
+                "name": "20-ВТ-(ас)-(рас)-2",
+                "friendlyName": "20-ВТ",
+                "institute": 1,
+                "subGroups": [
+                    {
+                        "id": 18,
+                        "studyGroup": 12,
+                        "numberInGroup": 1,
+                        "name": "20-ВТ-2-1"
+                    },
+                    {
+                        "id": 19,
+                        "studyGroup": 12,
+                        "numberInGroup": 2,
+                        "name": "20-ВТ-2-2"
+                    }
+                ]
+            },
+            {
+                "id": 13,
+                "name": "20-ИЭ-(иэ)-(кис)-1",
+                "friendlyName": "20-ВТ",
+                "institute": 1,
+                "subGroups": [
+                    {
+                        "id": 20,
+                        "studyGroup": 13,
+                        "numberInGroup": 1,
+                        "name": "20-ИЭ-1-1"
+                    },
+                    {
+                        "id": 21,
+                        "studyGroup": 13,
+                        "numberInGroup": 2,
+                        "name": "20-ИЭ-1-2"
+                    }
+                ]
+            },
+            {
+                "id": 14,
+                "name": "20-ИЭ-(иэ)-(кис)-2",
+                "friendlyName": "20-ВТ",
+                "institute": 1,
+                "subGroups": [
+                    {
+                        "id": 22,
+                        "studyGroup": 14,
+                        "numberInGroup": 1,
+                        "name": "20-ИЭ-2-1"
+                    },
+                    {
+                        "id": 23,
+                        "studyGroup": 14,
+                        "numberInGroup": 2,
+                        "name": "20-ИЭ-2-2"
+                    }
+                ]
+            },
+            {
+                "id": 15,
+                "name": "21-АП(эс)",
+                "friendlyName": "21-АП",
+                "institute": 1,
+                "subGroups": [
+                    {
+                        "id": 24,
+                        "studyGroup": 15,
+                        "numberInGroup": 1,
+                        "name": "21-АП-1"
+                    },
+                    {
+                        "id": 25,
+                        "studyGroup": 15,
+                        "numberInGroup": 2,
+                        "name": "21-АП-2"
+                    }
+                ]
+            },
+            {
+                "id": 16,
+                "name": "21-ВТ-(ас)-(рас)-1",
+                "friendlyName": "21-ВТ",
+                "institute": 1,
+                "subGroups": [
+                    {
+                        "id": 26,
+                        "studyGroup": 16,
+                        "numberInGroup": 1,
+                        "name": "21-ВТ-1-1"
+                    },
+                    {
+                        "id": 27,
+                        "studyGroup": 16,
+                        "numberInGroup": 2,
+                        "name": "21-ВТ-1-2"
+                    }
+                ]
+            },
+            {
+                "id": 17,
+                "name": "21-ВТ-(ас)-(рас)-2",
+                "friendlyName": "21-ВТ",
+                "institute": 1,
+                "subGroups": [
+                    {
+                        "id": 28,
+                        "studyGroup": 17,
+                        "numberInGroup": 1,
+                        "name": "21-ВТ-2-1"
+                    },
+                    {
+                        "id": 29,
+                        "studyGroup": 17,
+                        "numberInGroup": 2,
+                        "name": "21-ВТ-2-2"
+                    }
+                ]
+            },
+            {
+                "id": 18,
+                "name": "21-ВТ-(ас)-(рас)-3",
+                "friendlyName": "21-ВТ",
+                "institute": 1,
+                "subGroups": []
+            },
+            {
+                "id": 19,
+                "name": "21-ИЭ-(иэ)-(кис)-1",
+                "friendlyName": "21-ИЭ",
+                "institute": 1,
+                "subGroups": [
+                    {
+                        "id": 30,
+                        "studyGroup": 19,
+                        "numberInGroup": 1,
+                        "name": "21-ИЭ-1-1"
+                    },
+                    {
+                        "id": 31,
+                        "studyGroup": 19,
+                        "numberInGroup": 2,
+                        "name": "21-ИЭ-1-2"
+                    }
+                ]
+            },
+            {
+                "id": 20,
+                "name": "21-ИЭ-(иэ)-(кис)-2",
+                "friendlyName": "21-ИЭ",
+                "institute": 1,
+                "subGroups": [
+                    {
+                        "id": 32,
+                        "studyGroup": 20,
+                        "numberInGroup": 1,
+                        "name": "21-ИЭ-2-1"
+                    },
+                    {
+                        "id": 33,
+                        "studyGroup": 20,
+                        "numberInGroup": 2,
+                        "name": "21-ИЭ-2-2"
+                    }
+                ]
+            },
+            {
+                "id": 21,
+                "name": "21-ИЭ-(иэ)-(кис)-3",
+                "friendlyName": "21-ИЭ",
+                "institute": 1,
+                "subGroups": []
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Институт морских технологий, энергетики и строительства",
+        "groups": [
+            {
+                "id": 22,
+                "name": "18-КС",
+                "friendlyName": "18-КС",
+                "institute": 2,
+                "subGroups": [
+                    {
+                        "id": 36,
+                        "studyGroup": 22,
+                        "numberInGroup": 1,
+                        "name": "18-КС(пс)"
+                    },
+                    {
+                        "id": 37,
+                        "studyGroup": 22,
+                        "numberInGroup": 2,
+                        "name": "18-КС(тс)"
+                    }
+                ]
+            },
+            {
+                "id": 23,
+                "name": "18-СТ(пгс)",
+                "friendlyName": "18-СТ",
+                "institute": 2,
+                "subGroups": [
+                    {
+                        "id": 38,
+                        "studyGroup": 23,
+                        "numberInGroup": 1,
+                        "name": "18-СТ(пгс)-1"
+                    },
+                    {
+                        "id": 39,
+                        "studyGroup": 23,
+                        "numberInGroup": 2,
+                        "name": "18-СТ(пгс)-2"
+                    }
+                ]
+            },
+            {
+                "id": 24,
+                "name": "18-СТ(тгв)",
+                "friendlyName": "18-СТ",
+                "institute": 2,
+                "subGroups": []
+            },
+            {
+                "id": 25,
+                "name": "18-ТЭ(тэс)",
+                "friendlyName": "18-ТЭ",
+                "institute": 2,
+                "subGroups": [
+                    {
+                        "id": 40,
+                        "studyGroup": 25,
+                        "numberInGroup": 1,
+                        "name": "18-ТЭ(тэс)(твт)"
+                    },
+                    {
+                        "id": 41,
+                        "studyGroup": 25,
+                        "numberInGroup": 2,
+                        "name": "18-ТЭ(тэс)(экс)"
+                    }
+                ]
+            },
+            {
+                "id": 26,
+                "name": "18-ЭЭ(эл)",
+                "friendlyName": "18-ЭЭ",
+                "institute": 2,
+                "subGroups": []
+            },
+            {
+                "id": 27,
+                "name": "18-ЭЭ(эс)",
+                "friendlyName": "18-ЭЭ",
+                "institute": 2,
+                "subGroups": []
+            },
+            {
+                "id": 28,
+                "name": "19-КС",
+                "friendlyName": "19-КС",
+                "institute": 2,
+                "subGroups": [
+                    {
+                        "id": 42,
+                        "studyGroup": 28,
+                        "numberInGroup": 1,
+                        "name": "19-КС-1"
+                    },
+                    {
+                        "id": 43,
+                        "studyGroup": 28,
+                        "numberInGroup": 2,
+                        "name": "19-КС-2"
+                    }
+                ]
+            },
+            {
+                "id": 29,
+                "name": "19-СТ(пгс)",
+                "friendlyName": "19-СТ",
+                "institute": 2,
+                "subGroups": [
+                    {
+                        "id": 44,
+                        "studyGroup": 29,
+                        "numberInGroup": 1,
+                        "name": "19-СТ(пгс)-1"
+                    },
+                    {
+                        "id": 45,
+                        "studyGroup": 29,
+                        "numberInGroup": 2,
+                        "name": "19-СТ(пгс)-2"
+                    }
+                ]
+            },
+            {
+                "id": 30,
+                "name": "19-СТ(тгв)",
+                "friendlyName": "19-СТ",
+                "institute": 2,
+                "subGroups": []
+            },
+            {
+                "id": 31,
+                "name": "19-ТЭ",
+                "friendlyName": "19-ТЭ",
+                "institute": 2,
+                "subGroups": []
+            },
+            {
+                "id": 32,
+                "name": "19-ЭЭ",
+                "friendlyName": "19-ЭЭ",
+                "institute": 2,
+                "subGroups": [
+                    {
+                        "id": 46,
+                        "studyGroup": 32,
+                        "numberInGroup": 1,
+                        "name": "19-ЭЭ-1"
+                    },
+                    {
+                        "id": 47,
+                        "studyGroup": 32,
+                        "numberInGroup": 2,
+                        "name": "19-ЭЭ-2"
+                    }
+                ]
+            },
+            {
+                "id": 33,
+                "name": "20-КС-1",
+                "friendlyName": "20-КС",
+                "institute": 2,
+                "subGroups": [
+                    {
+                        "id": 48,
+                        "studyGroup": 33,
+                        "numberInGroup": 1,
+                        "name": "20-КС-1-1"
+                    },
+                    {
+                        "id": 49,
+                        "studyGroup": 33,
+                        "numberInGroup": 2,
+                        "name": "20-КС-1-2"
+                    }
+                ]
+            },
+            {
+                "id": 34,
+                "name": "20-КС-2",
+                "friendlyName": "20-КС",
+                "institute": 2,
+                "subGroups": []
+            },
+            {
+                "id": 35,
+                "name": "20-СТ(пгс)",
+                "friendlyName": "20-СТ",
+                "institute": 2,
+                "subGroups": [
+                    {
+                        "id": 50,
+                        "studyGroup": 35,
+                        "numberInGroup": 1,
+                        "name": "20-СТ(пгс)-1"
+                    },
+                    {
+                        "id": 51,
+                        "studyGroup": 35,
+                        "numberInGroup": 2,
+                        "name": "20-СТ(пгс)-2"
+                    }
+                ]
+            },
+            {
+                "id": 36,
+                "name": "20-СТ(тгв)",
+                "friendlyName": "20-СТ",
+                "institute": 2,
+                "subGroups": []
+            },
+            {
+                "id": 37,
+                "name": "20-ТЭ",
+                "friendlyName": "20-ТЭ",
+                "institute": 2,
+                "subGroups": [
+                    {
+                        "id": 52,
+                        "studyGroup": 37,
+                        "numberInGroup": 1,
+                        "name": "20-ТЭ-1"
+                    },
+                    {
+                        "id": 53,
+                        "studyGroup": 37,
+                        "numberInGroup": 2,
+                        "name": "20-ТЭ-2"
+                    }
+                ]
+            },
+            {
+                "id": 38,
+                "name": "20-ЭЭ",
+                "friendlyName": "20-ЭЭ",
+                "institute": 2,
+                "subGroups": [
+                    {
+                        "id": 54,
+                        "studyGroup": 38,
+                        "numberInGroup": 1,
+                        "name": "20-ЭЭ-1"
+                    },
+                    {
+                        "id": 55,
+                        "studyGroup": 38,
+                        "numberInGroup": 2,
+                        "name": "20-ЭЭ-2"
+                    }
+                ]
+            },
+            {
+                "id": 39,
+                "name": "21-КС-1",
+                "friendlyName": "21-КС",
+                "institute": 2,
+                "subGroups": [
+                    {
+                        "id": 56,
+                        "studyGroup": 39,
+                        "numberInGroup": 1,
+                        "name": "21-КС-1-1"
+                    },
+                    {
+                        "id": 57,
+                        "studyGroup": 39,
+                        "numberInGroup": 2,
+                        "name": "21-КС-1-2"
+                    }
+                ]
+            },
+            {
+                "id": 40,
+                "name": "21-КС-2",
+                "friendlyName": "21-КС",
+                "institute": 2,
+                "subGroups": []
+            },
+            {
+                "id": 41,
+                "name": "21-КС/м1",
+                "friendlyName": "21-КС",
+                "institute": 2,
+                "subGroups": [
+                    {
+                        "id": 58,
+                        "studyGroup": 41,
+                        "numberInGroup": 1,
+                        "name": "21-КС/м(пс)"
+                    },
+                    {
+                        "id": 59,
+                        "studyGroup": 41,
+                        "numberInGroup": 2,
+                        "name": "21-КС/м(тп)"
+                    }
+                ]
+            },
+            {
+                "id": 42,
+                "name": "21-СТ(пгс)-1",
+                "friendlyName": "21-СТ",
+                "institute": 2,
+                "subGroups": [
+                    {
+                        "id": 60,
+                        "studyGroup": 42,
+                        "numberInGroup": 1,
+                        "name": "21-СТ(пгс)-1-1"
+                    },
+                    {
+                        "id": 61,
+                        "studyGroup": 42,
+                        "numberInGroup": 2,
+                        "name": "21-СТ(пгс)-1-2"
+                    }
+                ]
+            },
+            {
+                "id": 43,
+                "name": "21-СТ(пгс)-2",
+                "friendlyName": "21-СТ",
+                "institute": 2,
+                "subGroups": [
+                    {
+                        "id": 62,
+                        "studyGroup": 43,
+                        "numberInGroup": 1,
+                        "name": "21-СТ(пгс)-2-1"
+                    },
+                    {
+                        "id": 63,
+                        "studyGroup": 43,
+                        "numberInGroup": 2,
+                        "name": "21-СТ(пгс)-2-2"
+                    }
+                ]
+            },
+            {
+                "id": 44,
+                "name": "21-СТ(тгв)",
+                "friendlyName": "21-СТ",
+                "institute": 2,
+                "subGroups": [
+                    {
+                        "id": 64,
+                        "studyGroup": 44,
+                        "numberInGroup": 1,
+                        "name": "21-СТ(тгв)-1"
+                    },
+                    {
+                        "id": 65,
+                        "studyGroup": 44,
+                        "numberInGroup": 2,
+                        "name": "21-СТ(тгв)-2"
+                    }
+                ]
+            },
+            {
+                "id": 45,
+                "name": "21-ТЭ",
+                "friendlyName": "21-ТЭ",
+                "institute": 2,
+                "subGroups": [
+                    {
+                        "id": 66,
+                        "studyGroup": 45,
+                        "numberInGroup": 1,
+                        "name": "21-ТЭ-1"
+                    },
+                    {
+                        "id": 67,
+                        "studyGroup": 45,
+                        "numberInGroup": 2,
+                        "name": "21-ТЭ-2"
+                    }
+                ]
+            },
+            {
+                "id": 46,
+                "name": "21-ЭЭ-1",
+                "friendlyName": "21-ЭЭ",
+                "institute": 2,
+                "subGroups": [
+                    {
+                        "id": 68,
+                        "studyGroup": 46,
+                        "numberInGroup": 1,
+                        "name": "21-ЭЭ-1-1"
+                    },
+                    {
+                        "id": 69,
+                        "studyGroup": 46,
+                        "numberInGroup": 2,
+                        "name": "21-ЭЭ-1-2"
+                    }
+                ]
+            },
+            {
+                "id": 47,
+                "name": "21-ЭЭ-2",
+                "friendlyName": "21-ЭЭ",
+                "institute": 2,
+                "subGroups": [
+                    {
+                        "id": 70,
+                        "studyGroup": 47,
+                        "numberInGroup": 1,
+                        "name": "21-ЭЭ-2-1"
+                    },
+                    {
+                        "id": 71,
+                        "studyGroup": 47,
+                        "numberInGroup": 2,
+                        "name": "21-ЭЭ-2-2"
+                    }
+                ]
+            },
+            {
+                "id": 48,
+                "name": "21-ЭЭ/м1",
+                "friendlyName": "21-ЭЭ",
+                "institute": 2,
+                "subGroups": []
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Институт агроинженерии и пищевых систем",
+        "groups": [
+            {
+                "id": 49,
+                "name": "18-АГ",
+                "friendlyName": "18-АГ",
+                "institute": 3,
+                "subGroups": [
+                    {
+                        "id": 72,
+                        "studyGroup": 49,
+                        "numberInGroup": 1,
+                        "name": "18-АГ(аб)"
+                    },
+                    {
+                        "id": 73,
+                        "studyGroup": 49,
+                        "numberInGroup": 2,
+                        "name": "18-АГ(др)"
+                    }
+                ]
+            },
+            {
+                "id": 50,
+                "name": "18-ЗТ",
+                "friendlyName": "18-ЗТ",
+                "institute": 3,
+                "subGroups": [
+                    {
+                        "id": 74,
+                        "studyGroup": 50,
+                        "numberInGroup": 1,
+                        "name": "18-ЗТ(нж)"
+                    },
+                    {
+                        "id": 75,
+                        "studyGroup": 50,
+                        "numberInGroup": 2,
+                        "name": "18-ЗТ(тп)"
+                    }
+                ]
+            },
+            {
+                "id": 51,
+                "name": "18-МС-(тоа)-(там)",
+                "friendlyName": "18-МС",
+                "institute": 3,
+                "subGroups": []
+            },
+            {
+                "id": 52,
+                "name": "18-ОП",
+                "friendlyName": "18-ОП",
+                "institute": 3,
+                "subGroups": [
+                    {
+                        "id": 76,
+                        "studyGroup": 52,
+                        "numberInGroup": 1,
+                        "name": "18-ОП-(оп)"
+                    },
+                    {
+                        "id": 77,
+                        "studyGroup": 52,
+                        "numberInGroup": 2,
+                        "name": "18-ОП-(пф)"
+                    }
+                ]
+            },
+            {
+                "id": 53,
+                "name": "18-ПА",
+                "friendlyName": "18-ПА",
+                "institute": 3,
+                "subGroups": [
+                    {
+                        "id": 78,
+                        "studyGroup": 53,
+                        "numberInGroup": 1,
+                        "name": "18-ПА(аэ)"
+                    },
+                    {
+                        "id": 79,
+                        "studyGroup": 53,
+                        "numberInGroup": 2,
+                        "name": "18-ПА(зп)"
+                    }
+                ]
+            },
+            {
+                "id": 54,
+                "name": "18-ПБ",
+                "friendlyName": "18-ПБ",
+                "institute": 3,
+                "subGroups": [
+                    {
+                        "id": 80,
+                        "studyGroup": 54,
+                        "numberInGroup": 1,
+                        "name": "18-ПБ-(пб)-(жп)"
+                    },
+                    {
+                        "id": 81,
+                        "studyGroup": 54,
+                        "numberInGroup": 2,
+                        "name": "18-ПБ-(пб)-(рп)"
+                    }
+                ]
+            },
+            {
+                "id": 55,
+                "name": "18-ПП",
+                "friendlyName": "18-ПП",
+                "institute": 3,
+                "subGroups": [
+                    {
+                        "id": 82,
+                        "studyGroup": 55,
+                        "numberInGroup": 1,
+                        "name": "18-ПП(тм)"
+                    },
+                    {
+                        "id": 83,
+                        "studyGroup": 55,
+                        "numberInGroup": 2,
+                        "name": "18-ПП(тр)"
+                    }
+                ]
+            },
+            {
+                "id": 56,
+                "name": "18-ТО",
+                "friendlyName": "18-ТО",
+                "institute": 3,
+                "subGroups": [
+                    {
+                        "id": 84,
+                        "studyGroup": 56,
+                        "numberInGroup": 1,
+                        "name": "18-ТО(ма)"
+                    },
+                    {
+                        "id": 85,
+                        "studyGroup": 56,
+                        "numberInGroup": 2,
+                        "name": "18-ТО(пи)"
+                    }
+                ]
+            },
+            {
+                "id": 57,
+                "name": "19-АГ",
+                "friendlyName": "19-АГ",
+                "institute": 3,
+                "subGroups": []
+            },
+            {
+                "id": 58,
+                "name": "19-ЗТ",
+                "friendlyName": "19-ЗТ",
+                "institute": 3,
+                "subGroups": []
+            },
+            {
+                "id": 59,
+                "name": "19-МС(тоа)(там)",
+                "friendlyName": "19-МС",
+                "institute": 3,
+                "subGroups": []
+            },
+            {
+                "id": 60,
+                "name": "19-ПА",
+                "friendlyName": "19-ПА",
+                "institute": 3,
+                "subGroups": []
+            },
+            {
+                "id": 61,
+                "name": "19-ПБ",
+                "friendlyName": "19-ПБ",
+                "institute": 3,
+                "subGroups": [
+                    {
+                        "id": 86,
+                        "studyGroup": 61,
+                        "numberInGroup": 1,
+                        "name": "19-ПБ-1"
+                    },
+                    {
+                        "id": 87,
+                        "studyGroup": 61,
+                        "numberInGroup": 2,
+                        "name": "19-ПБ-2"
+                    }
+                ]
+            },
+            {
+                "id": 62,
+                "name": "19-ПП",
+                "friendlyName": "19-ПП",
+                "institute": 3,
+                "subGroups": [
+                    {
+                        "id": 88,
+                        "studyGroup": 62,
+                        "numberInGroup": 1,
+                        "name": "19-ПП(тм)"
+                    },
+                    {
+                        "id": 89,
+                        "studyGroup": 62,
+                        "numberInGroup": 2,
+                        "name": "19-ПП(тр)"
+                    }
+                ]
+            },
+            {
+                "id": 63,
+                "name": "19-ТО",
+                "friendlyName": "19-ТО",
+                "institute": 3,
+                "subGroups": []
+            },
+            {
+                "id": 64,
+                "name": "20-АГ",
+                "friendlyName": "20-АГ",
+                "institute": 3,
+                "subGroups": []
+            },
+            {
+                "id": 65,
+                "name": "20-ЗТ",
+                "friendlyName": "20-ЗТ",
+                "institute": 3,
+                "subGroups": [
+                    {
+                        "id": 90,
+                        "studyGroup": 65,
+                        "numberInGroup": 1,
+                        "name": "20-ЗТ-1"
+                    },
+                    {
+                        "id": 91,
+                        "studyGroup": 65,
+                        "numberInGroup": 2,
+                        "name": "20-ЗТ-2"
+                    }
+                ]
+            },
+            {
+                "id": 66,
+                "name": "20-МС(тоа)(там)",
+                "friendlyName": "20-МС",
+                "institute": 3,
+                "subGroups": []
+            },
+            {
+                "id": 67,
+                "name": "20-ОП(бш)",
+                "friendlyName": "20-ОП",
+                "institute": 3,
+                "subGroups": []
+            },
+            {
+                "id": 68,
+                "name": "20-ПА",
+                "friendlyName": "20-ПА",
+                "institute": 3,
+                "subGroups": []
+            },
+            {
+                "id": 69,
+                "name": "20-ПБ",
+                "friendlyName": "20-ПБ",
+                "institute": 3,
+                "subGroups": [
+                    {
+                        "id": 92,
+                        "studyGroup": 69,
+                        "numberInGroup": 1,
+                        "name": "20-ПБ-1"
+                    },
+                    {
+                        "id": 93,
+                        "studyGroup": 69,
+                        "numberInGroup": 2,
+                        "name": "20-ПБ-2"
+                    }
+                ]
+            },
+            {
+                "id": 70,
+                "name": "20-ПП",
+                "friendlyName": "20-ПП",
+                "institute": 3,
+                "subGroups": [
+                    {
+                        "id": 94,
+                        "studyGroup": 70,
+                        "numberInGroup": 1,
+                        "name": "20-ПП-1"
+                    },
+                    {
+                        "id": 95,
+                        "studyGroup": 70,
+                        "numberInGroup": 2,
+                        "name": "20-ПП-2"
+                    }
+                ]
+            },
+            {
+                "id": 71,
+                "name": "20-ТО",
+                "friendlyName": "20-ТО",
+                "institute": 3,
+                "subGroups": []
+            },
+            {
+                "id": 72,
+                "name": "21-АГ",
+                "friendlyName": "21-АГ",
+                "institute": 3,
+                "subGroups": [
+                    {
+                        "id": 96,
+                        "studyGroup": 72,
+                        "numberInGroup": 1,
+                        "name": "21-АГ-1"
+                    },
+                    {
+                        "id": 97,
+                        "studyGroup": 72,
+                        "numberInGroup": 2,
+                        "name": "21-АГ-2"
+                    }
+                ]
+            },
+            {
+                "id": 73,
+                "name": "21-АГ/м1",
+                "friendlyName": "21-АГ",
+                "institute": 3,
+                "subGroups": []
+            },
+            {
+                "id": 74,
+                "name": "21-ЗТ",
+                "friendlyName": "21-ЗТ",
+                "institute": 3,
+                "subGroups": [
+                    {
+                        "id": 98,
+                        "studyGroup": 74,
+                        "numberInGroup": 1,
+                        "name": "21-ЗТ-1"
+                    },
+                    {
+                        "id": 99,
+                        "studyGroup": 74,
+                        "numberInGroup": 2,
+                        "name": "21-ЗТ-2"
+                    }
+                ]
+            },
+            {
+                "id": 75,
+                "name": "21-МС/1",
+                "friendlyName": "21-МС",
+                "institute": 3,
+                "subGroups": [
+                    {
+                        "id": 100,
+                        "studyGroup": 75,
+                        "numberInGroup": 1,
+                        "name": "21-МС-1"
+                    },
+                    {
+                        "id": 101,
+                        "studyGroup": 75,
+                        "numberInGroup": 2,
+                        "name": "21-МС-2"
+                    }
+                ]
+            },
+            {
+                "id": 77,
+                "name": "21-ОП",
+                "friendlyName": "21-ОП",
+                "institute": 3,
+                "subGroups": []
+            },
+            {
+                "id": 76,
+                "name": "21-ОП(бш)",
+                "friendlyName": "21-ОП",
+                "institute": 3,
+                "subGroups": []
+            },
+            {
+                "id": 78,
+                "name": "21-ОП/м",
+                "friendlyName": "21-ОП",
+                "institute": 3,
+                "subGroups": []
+            },
+            {
+                "id": 79,
+                "name": "21-ПА",
+                "friendlyName": "21-ПА",
+                "institute": 3,
+                "subGroups": [
+                    {
+                        "id": 102,
+                        "studyGroup": 79,
+                        "numberInGroup": 1,
+                        "name": "21-ПА-1"
+                    },
+                    {
+                        "id": 103,
+                        "studyGroup": 79,
+                        "numberInGroup": 2,
+                        "name": "21-ПА-2"
+                    }
+                ]
+            },
+            {
+                "id": 80,
+                "name": "21-ПБ",
+                "friendlyName": "21-ПБ",
+                "institute": 3,
+                "subGroups": [
+                    {
+                        "id": 104,
+                        "studyGroup": 80,
+                        "numberInGroup": 1,
+                        "name": "21-ПБ-1"
+                    },
+                    {
+                        "id": 105,
+                        "studyGroup": 80,
+                        "numberInGroup": 2,
+                        "name": "21-ПБ-2"
+                    }
+                ]
+            },
+            {
+                "id": 81,
+                "name": "21-ПБ/м1",
+                "friendlyName": "21-ПБ",
+                "institute": 3,
+                "subGroups": []
+            },
+            {
+                "id": 82,
+                "name": "21-ПП",
+                "friendlyName": "21-ПП",
+                "institute": 3,
+                "subGroups": [
+                    {
+                        "id": 106,
+                        "studyGroup": 82,
+                        "numberInGroup": 1,
+                        "name": "21-ПП-1"
+                    },
+                    {
+                        "id": 107,
+                        "studyGroup": 82,
+                        "numberInGroup": 2,
+                        "name": "21-ПП-2"
+                    }
+                ]
+            },
+            {
+                "id": 83,
+                "name": "21-ПП/м1",
+                "friendlyName": "21-ПП",
+                "institute": 3,
+                "subGroups": [
+                    {
+                        "id": 108,
+                        "studyGroup": 83,
+                        "numberInGroup": 1,
+                        "name": "21-ПП/м(вбр)"
+                    },
+                    {
+                        "id": 109,
+                        "studyGroup": 83,
+                        "numberInGroup": 2,
+                        "name": "21-ПП/м(ммп)"
+                    }
+                ]
+            },
+            {
+                "id": 84,
+                "name": "21-РС/м1",
+                "friendlyName": "21-РС",
+                "institute": 3,
+                "subGroups": []
+            },
+            {
+                "id": 85,
+                "name": "21-ТО",
+                "friendlyName": "21-ТО",
+                "institute": 3,
+                "subGroups": []
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Институт рыболовства и аквакультуры",
+        "groups": [
+            {
+                "id": 86,
+                "name": "18-ВА",
+                "friendlyName": "18-ВА",
+                "institute": 4,
+                "subGroups": [
+                    {
+                        "id": 110,
+                        "studyGroup": 86,
+                        "numberInGroup": 1,
+                        "name": "18-ВА(ип)"
+                    },
+                    {
+                        "id": 111,
+                        "studyGroup": 86,
+                        "numberInGroup": 2,
+                        "name": "18-ВА(увб)"
+                    }
+                ]
+            },
+            {
+                "id": 87,
+                "name": "18-ВП(овр)",
+                "friendlyName": "18-ВП",
+                "institute": 4,
+                "subGroups": [
+                    {
+                        "id": 112,
+                        "studyGroup": 87,
+                        "numberInGroup": 1,
+                        "name": "18-ВП-1"
+                    },
+                    {
+                        "id": 113,
+                        "studyGroup": 87,
+                        "numberInGroup": 2,
+                        "name": "18-ВП-2"
+                    }
+                ]
+            },
+            {
+                "id": 88,
+                "name": "18-ПР",
+                "friendlyName": "18-ПР",
+                "institute": 4,
+                "subGroups": [
+                    {
+                        "id": 114,
+                        "studyGroup": 88,
+                        "numberInGroup": 1,
+                        "name": "18-ПР(мр)"
+                    },
+                    {
+                        "id": 115,
+                        "studyGroup": 88,
+                        "numberInGroup": 2,
+                        "name": "18-ПР(ттр)"
+                    }
+                ]
+            },
+            {
+                "id": 89,
+                "name": "18-ТБ(бп)(от)",
+                "friendlyName": "18-ТБ",
+                "institute": 4,
+                "subGroups": []
+            },
+            {
+                "id": 90,
+                "name": "18-ЭП",
+                "friendlyName": "18-ЭП",
+                "institute": 4,
+                "subGroups": [
+                    {
+                        "id": 116,
+                        "studyGroup": 90,
+                        "numberInGroup": 1,
+                        "name": "18-ЭП(рэ)-1"
+                    },
+                    {
+                        "id": 117,
+                        "studyGroup": 90,
+                        "numberInGroup": 2,
+                        "name": "18-ЭП(рэ)-2"
+                    }
+                ]
+            },
+            {
+                "id": 91,
+                "name": "19-ВА",
+                "friendlyName": "19-ВА",
+                "institute": 4,
+                "subGroups": [
+                    {
+                        "id": 118,
+                        "studyGroup": 91,
+                        "numberInGroup": 1,
+                        "name": "19-ВА(ак)"
+                    },
+                    {
+                        "id": 119,
+                        "studyGroup": 91,
+                        "numberInGroup": 2,
+                        "name": "19-ВА(ип)"
+                    }
+                ]
+            },
+            {
+                "id": 92,
+                "name": "19-ВП(овр)",
+                "friendlyName": "19-ВП",
+                "institute": 4,
+                "subGroups": []
+            },
+            {
+                "id": 93,
+                "name": "19-ПР",
+                "friendlyName": "19-ПР",
+                "institute": 4,
+                "subGroups": [
+                    {
+                        "id": 120,
+                        "studyGroup": 93,
+                        "numberInGroup": 1,
+                        "name": "19-ПР(мр)"
+                    },
+                    {
+                        "id": 121,
+                        "studyGroup": 93,
+                        "numberInGroup": 2,
+                        "name": "19-ПР(ттр)"
+                    }
+                ]
+            },
+            {
+                "id": 94,
+                "name": "19-ТБ(бп)",
+                "friendlyName": "19-ТБ",
+                "institute": 4,
+                "subGroups": []
+            },
+            {
+                "id": 95,
+                "name": "19-ЭП",
+                "friendlyName": "19-ЭП",
+                "institute": 4,
+                "subGroups": []
+            },
+            {
+                "id": 96,
+                "name": "20-ВА",
+                "friendlyName": "20-ВА",
+                "institute": 4,
+                "subGroups": []
+            },
+            {
+                "id": 97,
+                "name": "20-ВП(овр)",
+                "friendlyName": "20-ВП",
+                "institute": 4,
+                "subGroups": []
+            },
+            {
+                "id": 98,
+                "name": "20-ПР",
+                "friendlyName": "20-ПР",
+                "institute": 4,
+                "subGroups": [
+                    {
+                        "id": 122,
+                        "studyGroup": 98,
+                        "numberInGroup": 1,
+                        "name": "20-ПР(мр)"
+                    },
+                    {
+                        "id": 123,
+                        "studyGroup": 98,
+                        "numberInGroup": 2,
+                        "name": "20-ПР(ттр)"
+                    }
+                ]
+            },
+            {
+                "id": 99,
+                "name": "20-ТБ(бп)",
+                "friendlyName": "20-ТБ",
+                "institute": 4,
+                "subGroups": []
+            },
+            {
+                "id": 100,
+                "name": "20-ЭП",
+                "friendlyName": "20-ЭП",
+                "institute": 4,
+                "subGroups": [
+                    {
+                        "id": 124,
+                        "studyGroup": 100,
+                        "numberInGroup": 1,
+                        "name": "20-ЭП-1"
+                    },
+                    {
+                        "id": 125,
+                        "studyGroup": 100,
+                        "numberInGroup": 2,
+                        "name": "20-ЭП-2"
+                    }
+                ]
+            },
+            {
+                "id": 101,
+                "name": "21-ВА",
+                "friendlyName": "21-ВА",
+                "institute": 4,
+                "subGroups": [
+                    {
+                        "id": 126,
+                        "studyGroup": 101,
+                        "numberInGroup": 1,
+                        "name": "21-ВА-1"
+                    },
+                    {
+                        "id": 127,
+                        "studyGroup": 101,
+                        "numberInGroup": 2,
+                        "name": "21-ВА-2"
+                    }
+                ]
+            },
+            {
+                "id": 102,
+                "name": "21-ВА/м1",
+                "friendlyName": "21-ВА",
+                "institute": 4,
+                "subGroups": []
+            },
+            {
+                "id": 103,
+                "name": "21-ВП(овр)",
+                "friendlyName": "21-ВП",
+                "institute": 4,
+                "subGroups": [
+                    {
+                        "id": 128,
+                        "studyGroup": 103,
+                        "numberInGroup": 1,
+                        "name": "21-ВП(овр)-1"
+                    },
+                    {
+                        "id": 129,
+                        "studyGroup": 103,
+                        "numberInGroup": 2,
+                        "name": "21-ВП(овр)-2"
+                    }
+                ]
+            },
+            {
+                "id": 104,
+                "name": "21-ПР",
+                "friendlyName": "21-ПР",
+                "institute": 4,
+                "subGroups": [
+                    {
+                        "id": 130,
+                        "studyGroup": 104,
+                        "numberInGroup": 1,
+                        "name": "21-ПР-1"
+                    },
+                    {
+                        "id": 131,
+                        "studyGroup": 104,
+                        "numberInGroup": 2,
+                        "name": "21-ПР-2"
+                    }
+                ]
+            },
+            {
+                "id": 105,
+                "name": "21-ПР/м1",
+                "friendlyName": "21-ПР",
+                "institute": 4,
+                "subGroups": []
+            },
+            {
+                "id": 106,
+                "name": "21-ТБ",
+                "friendlyName": "21-ТБ",
+                "institute": 4,
+                "subGroups": [
+                    {
+                        "id": 132,
+                        "studyGroup": 106,
+                        "numberInGroup": 1,
+                        "name": "21-ТБ-1"
+                    },
+                    {
+                        "id": 133,
+                        "studyGroup": 106,
+                        "numberInGroup": 2,
+                        "name": "21-ТБ-2"
+                    }
+                ]
+            },
+            {
+                "id": 107,
+                "name": "21-ЭП",
+                "friendlyName": "21-ЭП",
+                "institute": 4,
+                "subGroups": [
+                    {
+                        "id": 134,
+                        "studyGroup": 107,
+                        "numberInGroup": 1,
+                        "name": "21-ЭП-1"
+                    },
+                    {
+                        "id": 135,
+                        "studyGroup": 107,
+                        "numberInGroup": 2,
+                        "name": "21-ЭП-2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Институт отраслевой экономики и управления",
+        "groups": [
+            {
+                "id": 108,
+                "name": "18-МН(мг)(ск)",
+                "friendlyName": "18-МН",
+                "institute": 5,
+                "subGroups": []
+            },
+            {
+                "id": 109,
+                "name": "18-МН(пм)(пк)",
+                "friendlyName": "18-МН",
+                "institute": 5,
+                "subGroups": []
+            },
+            {
+                "id": 110,
+                "name": "18-ТД(км)",
+                "friendlyName": "18-ТД",
+                "institute": 5,
+                "subGroups": []
+            },
+            {
+                "id": 111,
+                "name": "18-УП(ко)",
+                "friendlyName": "18-УП",
+                "institute": 5,
+                "subGroups": []
+            },
+            {
+                "id": 112,
+                "name": "18-ЭБ(эа)-1",
+                "friendlyName": "18-ЭБ",
+                "institute": 5,
+                "subGroups": []
+            },
+            {
+                "id": 113,
+                "name": "18-ЭБ-2",
+                "friendlyName": "18-ЭБ",
+                "institute": 5,
+                "subGroups": []
+            },
+            {
+                "id": 114,
+                "name": "18-ЭК(бу)(ко)",
+                "friendlyName": "18-ЭК",
+                "institute": 5,
+                "subGroups": []
+            },
+            {
+                "id": 115,
+                "name": "18-ЭК(фк)(фм)",
+                "friendlyName": "18-ЭК",
+                "institute": 5,
+                "subGroups": []
+            },
+            {
+                "id": 116,
+                "name": "18-ЭК(эо)(ко)",
+                "friendlyName": "18-ЭК",
+                "institute": 5,
+                "subGroups": []
+            },
+            {
+                "id": 117,
+                "name": "19-МН",
+                "friendlyName": "19-МН",
+                "institute": 5,
+                "subGroups": [
+                    {
+                        "id": 136,
+                        "studyGroup": 117,
+                        "numberInGroup": 1,
+                        "name": "19-МН(мг)(ск)"
+                    }
+                ]
+            },
+            {
+                "id": 118,
+                "name": "19-УП(ко)",
+                "friendlyName": "19-УП",
+                "institute": 5,
+                "subGroups": []
+            },
+            {
+                "id": 119,
+                "name": "19-ЭБ(эа)-1",
+                "friendlyName": "19-ЭБ",
+                "institute": 5,
+                "subGroups": []
+            },
+            {
+                "id": 120,
+                "name": "19-ЭБ(эа)-2",
+                "friendlyName": "19-ЭБ",
+                "institute": 5,
+                "subGroups": []
+            },
+            {
+                "id": 121,
+                "name": "19-ЭК",
+                "friendlyName": "19-ЭК",
+                "institute": 5,
+                "subGroups": [
+                    {
+                        "id": 139,
+                        "studyGroup": 121,
+                        "numberInGroup": 2,
+                        "name": "19-ЭК(эо)"
+                    }
+                ]
+            },
+            {
+                "id": 122,
+                "name": "20-МН-1",
+                "friendlyName": "20-МН",
+                "institute": 5,
+                "subGroups": [
+                    {
+                        "id": 140,
+                        "studyGroup": 122,
+                        "numberInGroup": 1,
+                        "name": "20-МН-1-1"
+                    },
+                    {
+                        "id": 141,
+                        "studyGroup": 122,
+                        "numberInGroup": 2,
+                        "name": "20-МН-1-2"
+                    }
+                ]
+            },
+            {
+                "id": 123,
+                "name": "20-МН-2",
+                "friendlyName": "20-МН",
+                "institute": 5,
+                "subGroups": []
+            },
+            {
+                "id": 124,
+                "name": "20-УП",
+                "friendlyName": "20-УП",
+                "institute": 5,
+                "subGroups": []
+            },
+            {
+                "id": 125,
+                "name": "20-ЭБ(пб)-3",
+                "friendlyName": "20-ЭБ",
+                "institute": 5,
+                "subGroups": []
+            },
+            {
+                "id": 126,
+                "name": "20-ЭБ(эа)-1",
+                "friendlyName": "20-ЭБ",
+                "institute": 5,
+                "subGroups": []
+            },
+            {
+                "id": 127,
+                "name": "20-ЭБ(эа)-2",
+                "friendlyName": "20-ЭБ",
+                "institute": 5,
+                "subGroups": []
+            },
+            {
+                "id": 128,
+                "name": "20-ЭК-1",
+                "friendlyName": "20-ЭК",
+                "institute": 5,
+                "subGroups": [
+                    {
+                        "id": 142,
+                        "studyGroup": 128,
+                        "numberInGroup": 1,
+                        "name": "20-ЭК-1-1"
+                    },
+                    {
+                        "id": 143,
+                        "studyGroup": 128,
+                        "numberInGroup": 2,
+                        "name": "20-ЭК-1-2"
+                    }
+                ]
+            },
+            {
+                "id": 129,
+                "name": "20-ЭК-2",
+                "friendlyName": "20-ЭК",
+                "institute": 5,
+                "subGroups": []
+            },
+            {
+                "id": 130,
+                "name": "21-МН-1",
+                "friendlyName": "21-МН",
+                "institute": 5,
+                "subGroups": [
+                    {
+                        "id": 144,
+                        "studyGroup": 130,
+                        "numberInGroup": 1,
+                        "name": "21-МН-1-1"
+                    },
+                    {
+                        "id": 145,
+                        "studyGroup": 130,
+                        "numberInGroup": 2,
+                        "name": "21-МН-1-2"
+                    }
+                ]
+            },
+            {
+                "id": 131,
+                "name": "21-МН-2",
+                "friendlyName": "21-МН",
+                "institute": 5,
+                "subGroups": []
+            },
+            {
+                "id": 132,
+                "name": "21-МН/м(фм)",
+                "friendlyName": "21-МН",
+                "institute": 5,
+                "subGroups": []
+            },
+            {
+                "id": 133,
+                "name": "21-ЭБ-1",
+                "friendlyName": "21-ЭБ",
+                "institute": 5,
+                "subGroups": [
+                    {
+                        "id": 146,
+                        "studyGroup": 133,
+                        "numberInGroup": 1,
+                        "name": "21-ЭБ-1-1"
+                    },
+                    {
+                        "id": 147,
+                        "studyGroup": 133,
+                        "numberInGroup": 2,
+                        "name": "21-ЭБ-1-2"
+                    }
+                ]
+            },
+            {
+                "id": 134,
+                "name": "21-ЭБ-2",
+                "friendlyName": "21-ЭБ",
+                "institute": 5,
+                "subGroups": []
+            },
+            {
+                "id": 135,
+                "name": "21-ЭК-1",
+                "friendlyName": "21-ЭК",
+                "institute": 5,
+                "subGroups": [
+                    {
+                        "id": 148,
+                        "studyGroup": 135,
+                        "numberInGroup": 1,
+                        "name": "21-ЭК-1-1"
+                    }
+                ]
+            },
+            {
+                "id": 136,
+                "name": "21-ЭК-2",
+                "friendlyName": "21-ЭК",
+                "institute": 5,
+                "subGroups": []
+            },
+            {
+                "id": 137,
+                "name": "21-ЭК/м",
+                "friendlyName": "21-ЭК",
+                "institute": 5,
+                "subGroups": []
+            }
+        ]
+    }
+]
